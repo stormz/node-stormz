@@ -1,0 +1,19 @@
+{
+  "author": "François de Metz <francois@stormz.me>",
+  "name": "stormz",
+  "description": "Access to stormz's API",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stormz/node-stormz",
+  "repository": {
+    "url": "https://github.com/stormz/node-stormz"
+  },
+  "dependencies": {
+      "restler": "~2.0.x"
+  },
+  "main": "./lib/stormz.js",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
