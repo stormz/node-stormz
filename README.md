@@ -19,6 +19,6 @@ stormz.json('get', '/v1/user/me').on('complete', function(data, response) {
 
 ## License
 
-c) 2012 Stormz
+(c) 2012 Stormz
 
 This code is free to use under the terms of the MIT license.
