@@ -1,6 +1,6 @@
 # node-stormz
 
-Simple node wrapper around [stormz's API](http://developer.stormz.me).
+Simple node wrapper around [Stormz's API](http://developer.stormz.me).
 
 ## Install
 
@@ -19,6 +19,6 @@ stormz.json('get', '/v1/user/me').on('complete', function(data, response) {
 
 ## License
 
-(c) 2012 Stormz
+(c) 2015 Stormz
 
 This code is free to use under the terms of the MIT license.
