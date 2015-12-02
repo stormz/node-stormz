@@ -8,7 +8,7 @@
     "url": "https://github.com/stormz/node-stormz"
   },
   "dependencies": {
-      "restler": "~2.0.x"
+    "restler": "^3.4.0"
   },
   "main": "./lib/stormz.js",
   "devDependencies": {},
