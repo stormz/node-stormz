@@ -2,7 +2,7 @@
   "author": "François de Metz <francois@stormz.me>",
   "name": "stormz",
   "description": "Access to stormz's API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/stormz/node-stormz",
   "repository": {
     "url": "https://github.com/stormz/node-stormz"
