@@ -12,7 +12,7 @@ Simple node wrapper around [Stormz's API](http://developer.stormz.me).
 var Stormz = require('stormz');
 
 var stormz = new Stormz(token);
-stormz.json('get', '/v1/user/me').on('complete', function(data, response) {
+stormz.get('/v1/user/me').on('complete', function(data, response) {
     console.log('complete', response.statusCode, data);
 });
 ```
